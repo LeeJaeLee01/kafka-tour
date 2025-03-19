@@ -1,0 +1,1 @@
+Nếu mà tạo 1 topic bắn message thì kafka sẽ tự tạo 1 consummer
